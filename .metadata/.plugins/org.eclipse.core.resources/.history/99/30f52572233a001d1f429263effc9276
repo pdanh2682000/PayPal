@@ -1,0 +1,5 @@
+package com.danhuy.dto;
+
+public class Order {
+
+}
